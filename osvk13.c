@@ -3,7 +3,7 @@ menu driven calculator that repeatedly performs arithmetic operation unit the
 users exist the program. */
  
 #include <stdio.h>
-int main()
+int main() 
 {
     int choice;
     float num1,num2,result;
