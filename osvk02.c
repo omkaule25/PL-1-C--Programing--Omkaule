@@ -1,4 +1,4 @@
-/*
+ /*
 Program (2) -> Write a program to make use of basic Input/Output functions using different data types.
 
 Solution(2) -> User Define Values
