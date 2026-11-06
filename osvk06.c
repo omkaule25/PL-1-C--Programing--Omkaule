@@ -1,4 +1,4 @@
-/*
+ /*
 Program (6) -> Write a program to calculate the average of three numbers.
 
 Solution (2) -> User Define Values
