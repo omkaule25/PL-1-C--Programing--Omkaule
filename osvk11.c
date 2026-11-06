@@ -1,4 +1,4 @@
-//Program(11)->write a program to check whether a given number is even or odd
+ //Program(11)->write a program to check whether a given number is even or odd
 
 #include <stdio.h>
 
